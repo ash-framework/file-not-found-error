@@ -40,7 +40,9 @@
     "not found",
     "file not found"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "@ash-framework/argument-error": "^1.0.3"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "github": "^5.2.2",
