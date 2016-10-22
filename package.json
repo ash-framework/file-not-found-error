@@ -1,5 +1,5 @@
 {
-  "name": "file-not-found-error",
+  "name": "@ash-framework/file-not-found-error",
   "description": "Error class for throwing FileNotFoundError errors",
   "version": "1.0.0",
   "license": "MIT",

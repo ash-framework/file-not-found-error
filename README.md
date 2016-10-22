@@ -1,6 +1,6 @@
 <!-- TITLE/ -->
 
-<h1>file-not-found-error</h1>
+<h1>@ash-framework/file-not-found-error</h1>
 
 <!-- /TITLE -->
 
@@ -12,8 +12,8 @@
 <span class="badge-badge"><a href="https://nodei.co/npm/@ash-framework/file-not-found-error"><img src="https://nodei.co/npm/@ash-framework/file-not-found-error.png?downloads=true&stars=true" /></a></span>
 <br class="badge-separator" />
 <span class="badge-travisci"><a href="http://travis-ci.org/ash-framework/file-not-found-error" title="Check this project's build status on TravisCI"><img src="https://img.shields.io/travis/ash-framework/file-not-found-error/master.svg" alt="Travis CI Build Status" /></a></span>
-<span class="badge-npmversion"><a href="https://npmjs.org/package/file-not-found-error" title="View this project on NPM"><img src="https://img.shields.io/npm/v/file-not-found-error.svg" alt="NPM version" /></a></span>
-<span class="badge-npmdownloads"><a href="https://npmjs.org/package/file-not-found-error" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/file-not-found-error.svg" alt="NPM downloads" /></a></span>
+<span class="badge-npmversion"><a href="https://npmjs.org/package/@ash-framework/file-not-found-error" title="View this project on NPM"><img src="https://img.shields.io/npm/v/@ash-framework/file-not-found-error.svg" alt="NPM version" /></a></span>
+<span class="badge-npmdownloads"><a href="https://npmjs.org/package/@ash-framework/file-not-found-error" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/@ash-framework/file-not-found-error.svg" alt="NPM downloads" /></a></span>
 <span class="badge-daviddm"><a href="https://david-dm.org/ash-framework/file-not-found-error" title="View the status of this project's dependencies on DavidDM"><img src="https://img.shields.io/david/ash-framework/file-not-found-error.svg" alt="Dependency Status" /></a></span>
 <span class="badge-daviddmdev"><a href="https://david-dm.org/ash-framework/file-not-found-error#info=devDependencies" title="View the status of this project's development dependencies on DavidDM"><img src="https://img.shields.io/david/dev/ash-framework/file-not-found-error.svg" alt="Dev Dependency Status" /></a></span>
 
@@ -32,8 +32,8 @@ Error class for throwing FileNotFoundError errors
 <h2>Install</h2>
 
 <a href="https://npmjs.com" title="npm is a package manager for javascript"><h3>NPM</h3></a><ul>
-<li>Install: <code>npm install --save file-not-found-error</code></li>
-<li>Module: <code>require('file-not-found-error')</code></li></ul>
+<li>Install: <code>npm install --save @ash-framework/file-not-found-error</code></li>
+<li>Module: <code>require('@ash-framework/file-not-found-error')</code></li></ul>
 
 <!-- /INSTALL -->
 
