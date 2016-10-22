@@ -1,7 +1,7 @@
 {
   "name": "file-not-found-error",
   "description": "Error class for throwing FileNotFoundError errors",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "./src/index.js",
   "repository": {
