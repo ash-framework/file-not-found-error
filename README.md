@@ -39,7 +39,19 @@ Error class for throwing FileNotFoundError errors
 
 
 ## Usage
-Usage instructions go here
+```js
+new FileNotFoundError(name|path, [path])
+```
+
+Either
+```js
+const error = new FileNotFoundError('/path/to/not/found/file.js')
+```
+
+Or
+```js
+const error = new FileNotFoundError('file.js', '/path/to/not/found')
+```
 
 <!-- HISTORY/ -->
 
